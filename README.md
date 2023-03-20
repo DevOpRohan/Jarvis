@@ -1,2 +1,2 @@
-# Jarvis
+# ReactChat
 Created with CodeSandbox
